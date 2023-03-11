@@ -1,0 +1,29 @@
+.navBar{
+    display: flex;
+    justify-content: space-between;
+    padding: 1%;
+    border-bottom: solid 1px #e2e9f0;
+    line-height: 1vh;
+    align-items: center;
+}
+.left-nav{
+    display: flex;
+    align-items: center;
+}
+.products-nav{
+    display: flex;
+    margin-left: 5vw;
+}
+.products-nav-link{
+    color: #4a5568;
+    padding: 3px 16px;
+    font-size: 1.1rem;
+    display: block;
+}
+.products-nav-link:hover{
+    color: #000;
+}
+.right-nav{
+    display: flex; 
+    gap: 2%;
+}

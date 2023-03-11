@@ -1,0 +1,14 @@
+.profile-right-nav{
+    align-items: center;
+    width: 30%;
+    gap: 10%;
+    font-size: 18px;
+}
+.wishlist-btn{
+    margin-left: 5%;
+    color: pink;
+    transition: all 1s;
+}
+.wishlist-btn:hover{
+    scale: 1.5;
+}
